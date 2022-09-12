@@ -1,1 +1,17 @@
-# htmlaaaaa
+
+SITE PALAROTHEGAMES BALACOBACO
+
+<HTML>
+ <READ>
+  <TITLE> MY FIRST VAPE
+ </READ>
+  
+ <BODY>
+ <READER>
+   <H1> MEU PRIMEIRO TEXTO </H1>
+ </READER>
+ <footer> 
+    <H1> MEU RODA PÉ </H1>
+ </footer> 
+ </BODY>
+</HTML>	
